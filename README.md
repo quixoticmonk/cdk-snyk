@@ -1,2 +1,1 @@
-# cdk-snyk
-Sample code with Snyk integration and github actions for AWS infrastructure modelled with AWS CDK
+# A sample repo with AWS infrastruture modelled via AWS CDK and Snyk integrated over Github Actions
